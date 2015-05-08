@@ -1,3 +1,6 @@
+/*Example taken form http://electronics.stackexchange.com/questions/42197/making-two-arduinos-talk-over-spi 
+and edited by Jakob.*/
+
 /*
 ############ MASTER ###########
 */

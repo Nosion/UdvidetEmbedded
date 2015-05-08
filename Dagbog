@@ -1,0 +1,22 @@
+- Noget af det jeg har lavet ligger på https://github.com/Nosion/UdvidetEmbedded
+- Beklager der er lidt rod i det.
+Mandag:
+------
+- Fik seriel forbindelse til at virke mellem to boards, dog unden at kunne tænde og slukke noget.
+Tirsdag:
+------
+- Fik arduino1 til at tænde en LED på Arduino2, via en knap på arduino1.
+- Startet med at skrive Log bog
+- SPI kommunikation mellem de 2 arduino boards, en knap til at skukke og tænde lys på over SPI på det andet board.
+Onsdag:
+------ 
+- Fik installeret AtmelStudio og sat et projekt op der virkede. 
+Torsdag:
+------
+- Gik sammen med Rene og Daniel
+- Fik stukket Scopet i hånden, og fik arbejdet med det for første gang.
+- Vi kunne sende CAN bus beskeder til hianden og aflæse det på scopet.
+- Vi kom dog senere ud for at aflæse en masse errors på vores forbindelse via scopet. -Vi fandt ikke helt ud af hvad der forudsagde det men gætter på at det var noget forbindelsen der var dårlig. 
+Fredag:
+------
+- Arbejdet med ESP8266 wifi modul, vi kan skrive AT kommandoer til den og sætte den op på wifi netværket. Der var problemer med at få åbnet TCP port 80 til thinkspeak på ESP enheden, men vi prøvede at forbinde til en telefon via TCP og det virkede.
